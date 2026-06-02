@@ -45,7 +45,7 @@ const skills = {
   Programming: ["C", "C++", "Python", "Java"],
   "Core Concepts": ["DSA", "OOP", "AI/ML", "DBMS", "PowerBI"],
   "Web Technologies": ["HTML", "CSS", "JavaScript", "React.js", "Node.js"],
-  Tools: ["VS Code", "IntelliJ", "Git", "GitHub", "Jupyter", "Canva"],
+  Tools: ["VS Code", "IntelliJ", "Git", "GitHub", "Jupyter", "Canva", "Power BI"],
 };
 
 const certifications = [
@@ -285,7 +285,7 @@ function Index() {
       </Section>
 
       <footer className="border-t border-border/40 py-10 text-center text-sm text-muted-foreground">
-        © 2026 Aravind M · Built with React & deployed on Netlify
+        aravind.m2024cse@sece.ac.in
       </footer>
     </main>
   );
