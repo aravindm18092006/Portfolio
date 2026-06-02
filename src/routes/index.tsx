@@ -138,13 +138,9 @@ function Index() {
             </div>
           </Reveal>
           <Reveal delay={480}>
-            <div className="mt-16 flex flex-wrap items-center gap-6 text-muted-foreground">
+            <div className="mt-16 flex items-center gap-6 text-muted-foreground">
               <a href="https://github.com" target="_blank" rel="noreferrer" aria-label="GitHub" className="transition-colors hover:text-primary"><Github className="h-5 w-5" /></a>
               <a href="https://www.linkedin.com/in/aravind-m-261bb832a/" target="_blank" rel="noreferrer" aria-label="LinkedIn" className="transition-colors hover:text-primary"><Linkedin className="h-5 w-5" /></a>
-              <a href="mailto:aravind.m2024cse@sece.ac.in" aria-label="Email" className="inline-flex items-center gap-2 text-sm transition-colors hover:text-primary">
-                <Mail className="h-5 w-5" />
-                <span>aravind.m2024cse@sece.ac.in</span>
-              </a>
             </div>
           </Reveal>
         </div>
